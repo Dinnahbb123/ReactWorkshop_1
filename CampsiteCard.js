@@ -1,6 +1,6 @@
 import {Card, CardImg, CardImgOverlay,CardTitle} from 'reactstrap';
 
-const CampSiteCard =(props) => {
+const CampsiteCard =(props) => {
     return (
         <Card>
             <CardImg
@@ -19,5 +19,4 @@ const CampSiteCard =(props) => {
 )
 }
 
-
-    export default CampSiteCard;
+    export default CampsiteCard;
